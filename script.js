@@ -1,0 +1,1 @@
+console.log('Bienvenue sur CodeNova avec favicon intégré');
