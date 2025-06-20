@@ -1,0 +1,1 @@
+console.log('CodeNova site sécurisé chargé');
